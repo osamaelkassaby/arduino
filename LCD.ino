@@ -17,7 +17,7 @@ void loop() {
  // lcd.print("Loning .....");
   delay(400);
  if(i == 20){
-  lcd.print("01555570509");
+  lcd.print("welcome .");
   lcd.setCursor(0,0);
   lcd.print("osamaelkassaby");
 
