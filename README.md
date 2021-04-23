@@ -1,11 +1,7 @@
 # arduino
 
 
-<style>
-  a{
-  color:red;
-  }
-  </sytle
+
 
 <center>   
 <h2> projects of arduino uno </h2>
@@ -14,11 +10,10 @@
 </center>
 
 <a href="https://www.instagram.com/osama_alkassaby/"> 
-![instagram](https://user-images.githubusercontent.com/62217352/115929164-99a1f380-a487-11eb-8735-6de6e91d779b.png)
+<img src=![instagram](https://user-images.githubusercontent.com/62217352/115929164-99a1f380-a487-11eb-8735-6de6e91d779b.png) width=90px height=60px>
 </a>
 
 
 <a href="https://www.facebook.com/osamaelqassaby/"> 
-
-![facebook](https://user-images.githubusercontent.com/62217352/115929227-bc340c80-a487-11eb-8935-39213860e8d9.png)
+<img src=![facebook](https://user-images.githubusercontent.com/62217352/115929227-bc340c80-a487-11eb-8935-39213860e8d9.png) width=90px height=60px>
 </a>
