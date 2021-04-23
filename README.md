@@ -5,7 +5,7 @@
 
 <center>   
 <h2> projects of arduino uno </h2>
-![arduino-uno-r3-1](https://user-images.githubusercontent.com/62217352/115928772-f224c100-a486-11eb-9040-a3eebbc04b3d.jpg)
+  <img src=![arduino-uno-r3-1](https://user-images.githubusercontent.com/62217352/115928772-f224c100-a486-11eb-9040-a3eebbc04b3d.jpg)>
 
 </center>
 
